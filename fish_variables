@@ -1,0 +1,41 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export EDITOR:nvim
+SETUVAR ZO_CMD:zo
+SETUVAR Z_CMD:z
+SETUVAR Z_DATA:/home/locpham/\x2elocal/share/z/data
+SETUVAR Z_DATA_DIR:/home/locpham/\x2elocal/share/z
+SETUVAR Z_EXCLUDE:\x5e/home/locpham\x24
+SETUVAR __fish_initialized:3100
+SETUVAR _fisher_jethrokuan_2F_z_files:/home/locpham/\x2econfig/fish/functions/__z\x2efish\x1e/home/locpham/\x2econfig/fish/functions/__z_add\x2efish\x1e/home/locpham/\x2econfig/fish/functions/__z_clean\x2efish\x1e/home/locpham/\x2econfig/fish/functions/__z_complete\x2efish\x1e/home/locpham/\x2econfig/fish/conf\x2ed/z\x2efish
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:/home/locpham/\x2econfig/fish/functions/fisher\x2efish\x1e/home/locpham/\x2econfig/fish/completions/fisher\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher\x1ejethrokuan/z
+SETUVAR fish_color_autosuggestion:5fffd7
+SETUVAR fish_color_cancel:normal
+SETUVAR fish_color_command:F8F8F2
+SETUVAR fish_color_comment:6272A4
+SETUVAR fish_color_cwd:008000
+SETUVAR fish_color_cwd_root:800000
+SETUVAR fish_color_end:50FA7B
+SETUVAR fish_color_error:FFB86C
+SETUVAR fish_color_escape:00a6b2
+SETUVAR fish_color_history_current:normal
+SETUVAR fish_color_host:normal
+SETUVAR fish_color_host_remote:yellow
+SETUVAR fish_color_match:normal
+SETUVAR fish_color_normal:normal
+SETUVAR fish_color_operator:00a6b2
+SETUVAR fish_color_param:FF79C6
+SETUVAR fish_color_quote:F1FA8C
+SETUVAR fish_color_redirection:8BE9FD
+SETUVAR fish_color_search_match:ffff00
+SETUVAR fish_color_selection:c0c0c0
+SETUVAR fish_color_status:red
+SETUVAR fish_color_user:00ff00
+SETUVAR fish_color_valid_path:normal
+SETUVAR fish_greeting:Welcome\x20to\x20fish\x2c\x20the\x20friendly\x20interactive\x20shell\x0aType\x20\x60help\x60\x20for\x20instructions\x20on\x20how\x20to\x20use\x20fish
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_completion:normal
+SETUVAR fish_pager_color_description:B3A06D\x1eyellow
+SETUVAR fish_pager_color_prefix:white\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
+SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
